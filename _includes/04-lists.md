@@ -1,3 +1,3 @@
-Sex
-Drugs
-Rock-and-Roll
+:heart: Sex
+:sparkles: Drugs
+:+1: Rock-and-Roll
